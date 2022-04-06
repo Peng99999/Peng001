@@ -1,0 +1,589 @@
+qid	text_a	text_b	label
+0	sushi	Serves really good sushi.	1
+1	portions	Not the biggest portions but adequate.	2
+2	Green Tea creme brulee	Green Tea creme brulee is a must!	1
+3	place	– I can't say enough about this place.	1
+4	sushi	It has great sushi and even better service.	1
+5	service	It has great sushi and even better service.	1
+6	staff	The entire staff was extremely accomodating and tended to my every need.	1
+7	restaurant	I've been to this restaurant over a dozen times with no complaints to date.	1
+8	owner	The owner is belligerent to guests that have a complaint.	0
+9	food	Good food!	1
+10	meal	This is a great place to get a delicious meal.	1
+11	staff	The staff is pretty friendly.	1
+12	onion rings	The onion rings are great!	1
+13	food	– I was highly disappointed in the food at Pagoda.	0
+14	lemon chicken	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.	0
+15	honey walnut prawns	The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.	0
+16	ambience	Nice ambience, but highly overrated place.	1
+17	place	Nice ambience, but highly overrated place.	0
+18	Service	Worst Service I Ever Had	1
+19	service	Everyone that sat in the back outside agreed that it was the worst service we had ever received.	0
+20	waiter	Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.	0
+21	manager	I complained to the manager, but he was not even apologetic.	0
+22	Italian Food	Fabulous Italian Food!	1
+23	Mioposto	– I highly recommend Mioposto.	1
+24	Italian restaurant	I am so happy to have a wonderful Italian restaurant in my neighborhood.	1
+25	wine list	The wine list is wonderful and the food reminds me of my recent trip to Italy.	1
+26	food	The wine list is wonderful and the food reminds me of my recent trip to Italy.	1
+27	restaurant	I love this restaurant	1
+28	meal	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.	1
+29	service	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.	1
+30	ambiance	– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.	1
+31	wine list	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.	1
+32	food	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.	1
+33	staff	The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.	1
+34	place	I have not a bad thing to say about this place.	1
+35	food	The food was great!	1
+36	Kafta plate	I had the Kafta plate and it was perfect.	1
+37	meal	Finally a meal that you will remember for a long time!	1
+38	food	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	1
+39	service	– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	1
+40	place	This is the place to relax and enjoy the finest quality food the industry can offer.	1
+41	food	This is the place to relax and enjoy the finest quality food the industry can offer.	1
+42	atmosphere	I liked the atmosphere very much but the food was not worth the price.	1
+43	food	I liked the atmosphere very much but the food was not worth the price.	0
+44	Rice	Rice is too dry, tuna wasn't so fresh either.	0
+45	tuna	Rice is too dry, tuna wasn't so fresh either.	0
+46	fish	I have eaten here three times and have found the quality and variety of the fish to be excellent.	1
+47	service	However, the value and service are both severely lacking.	0
+48	fish	Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.	1
+49	rolls	Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.	0
+50	service	The service ranges from mediocre to offensive.	0
+51	waiter	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.	0
+52	staff members	On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.	0
+53	sushi	Freshest sushi  – I love this restaurant.	1
+54	restaurant	Freshest sushi  – I love this restaurant.	1
+55	miso soup	They pay such detail to everything from miso soup to complex rolls.	1
+56	rolls	They pay such detail to everything from miso soup to complex rolls.	1
+57	sashimi	The sashimi was the freshest and most tender I have ever tasted.	1
+58	apps	Their apps are all delicious.	1
+59	place	The only drawback is that this place is really expensive and the portions are on the small side.	0
+60	portions	The only drawback is that this place is really expensive and the portions are on the small side.	0
+61	space	But the space is small and lovely, and the service is helpful.	1
+62	service	But the space is small and lovely, and the service is helpful.	1
+63	food	– The food was not great & the waiters were rude.	0
+64	waiters	– The food was not great & the waiters were rude.	0
+65	service	great service	1
+66	bus boy	the bus boy even spotted that my table was shaking a stabilized it for me.	1
+67	food	food was fine, with a some little-tastier-than-normal salsa.	1
+68	salsa	food was fine, with a some little-tastier-than-normal salsa.	1
+69	food	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	1
+70	margaritas	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	1
+71	waitress	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	0
+72	pizza place	Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place.	1
+73	pizza	the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.	0
+74	Sushi	Best Sushi in town.	1
+75	calamari	The best calamari in Seattle!	1
+76	deck	– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.	1
+77	place	A perfect place to take out of town guests any time of the year.	1
+78	music	Endless fun, awesome music, great staff!!!	1
+79	staff	Endless fun, awesome music, great staff!!!	1
+80	bar	– By far the best bar in the east village...	1
+81	bartender	Every time 0-sixtynine is called the bartender buys everyone drinks!	1
+82	pizza	Great draft and bottle selection and the pizza rocks.	1
+83	draft and bottle selection	Great draft and bottle selection and the pizza rocks.	1
+84	jukebox's	Definitely has one of the best jukebox's i've seen in a long long time.	1
+85	food	The food is great, the bartenders go that extra mile.	1
+86	bartenders	The food is great, the bartenders go that extra mile.	1
+87	owners	The owners are great fun and the beer selection is worth staying for.	1
+88	beer selection	The owners are great fun and the beer selection is worth staying for.	1
+89	upstairs	And the upstairs is a great place to hang out.	1
+90	balconey	Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.	1
+91	sushi	The sushi here is delicious!	1
+92	fish	They have a wide variety of fish and they even list which oceans they come from; Atlantic or Pacific.	1
+93	Jellyfish	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.	1
+94	Horse Mackerel	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.	1
+95	Blue Fin Tuna	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.	1
+96	Sake Ikura roll	I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.	1
+97	pieces	My only negative comment is that I wish the pieces were a little bigger.	0
+98	decor	The decor is rustic, traditional Japanese.	2
+99	crowd	The crowd is mixed yuppies, young and old.	2
+100	service	The service was courteous and attentive.	1
+101	food	Mediocre food	2
+102	menu	The outside patio area has an abbreviated menu.	2
+103	food	My g/f and I both agreed the food was very mediocre especially considering the price.	0
+104	place	We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.	0
+105	Service	Service was decent.	2
+106	Drinks	Drinks were good.	1
+107	drinks	Unless you are just stopping in for a few drinks I wouldn't recommend going here.	1
+108	food	Excellent food, nice ambience, fairly expensive	1
+109	ambience	Excellent food, nice ambience, fairly expensive	1
+110	pumpkin ravioli	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.	1
+111	goat cheese gnocchi	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.	1
+112	filet mignon on top of spinach and mashed potatoes	– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.	1
+113	ambiance	The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.	1
+114	Indian food	Best Indian food in L.A.	1
+115	chicken curry	The chicken curry and chicken tikka masala are my favorite meat dishes.	1
+116	chicken tikka masala	The chicken curry and chicken tikka masala are my favorite meat dishes.	1
+117	chana masala (garbanzo beans)	The chana masala (garbanzo beans) are also excellent.	1
+118	location	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.	2
+119	food	It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.	1
+120	service	Never too crowded and always great service.	1
+121	menu	I think I have probably tried each item on their menu at least once it is all excellent.	1
+122	saag	I can highly recommend their various saag and paneer and korma.	1
+123	paneer	I can highly recommend their various saag and paneer and korma.	1
+124	korma	I can highly recommend their various saag and paneer and korma.	1
+125	delivery	I appreciate their delivery too.	1
+126	food	Nice food but no spice!	1
+127	meal	– I really enjoyed my meal here.	1
+128	lamb korma	I had yummy lamb korma, saag paneer, samosas, naan, etc.	1
+129	saag paneer	I had yummy lamb korma, saag paneer, samosas, naan, etc.	1
+130	samosas	I had yummy lamb korma, saag paneer, samosas, naan, etc.	1
+131	naan	I had yummy lamb korma, saag paneer, samosas, naan, etc.	1
+132	food	The food was all good but it was way too mild.	1
+133	naan	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.	1
+134	bhartha	The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.	1
+135	chickpeas	Even the chickpeas, which I normally find too dry, were good.	1
+136	fajita salad	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.	1
+137	colorado	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.	1
+138	fajitas	– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.	1
+139	environment	I love the warm & cosy environment.	1
+140	place	I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.	1
+141	restaurant	best restaurant in the world, great decor, great customer service, friendly manager	1
+142	decor	best restaurant in the world, great decor, great customer service, friendly manager	1
+143	customer service	best restaurant in the world, great decor, great customer service, friendly manager	1
+144	manager	best restaurant in the world, great decor, great customer service, friendly manager	1
+145	food	i am never disappointed with there food.	1
+146	atmosphere	the atmosphere is great.	1
+147	lunch spot	great lunch spot	1
+148	mexican spot	– Great financial district mexican spot.	1
+149	service	Always busy, but they are good at seating you promptly and have quick service.	1
+150	taco salads	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.	1
+151	burritos	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.	1
+152	enchiladas	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.	1
+153	place	Everything I've had here is good, taco salads, burritos, enchiladas i love this place.	1
+154	margaritas	Also have great margaritas!	1
+155	Lebanese Food	Lebanese Food!Yum!	1
+156	Open Sesame	– I've been to Open Sesame only once, but I'm still reeling from the experience!!	1
+157	food	The food is simply unforgettable!	1
+158	chicken shawarma	My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!	1
+159	staff	The staff are friendly and the decor was ethic and colorful.	1
+160	decor	The staff are friendly and the decor was ethic and colorful.	1
+161	OPEN SESAME	GO TO OPEN SESAME!!!	1
+162	Hummus	Holy Hummus!	1
+163	food	– The food is here is incredible, though the quality is inconsistent during lunch.	1
+164	lunch	– The food is here is incredible, though the quality is inconsistent during lunch.	0
+165	Dinners	Dinners have always been excellent, in terms of food quality.	1
+166	open sesame combo plate	The open sesame combo plate is a bargain for the heap of food given.	1
+167	side of potatoes	The side of potatoes is to die for, as is the labne (yogurt dip).	1
+168	labne (yogurt dip)	The side of potatoes is to die for, as is the labne (yogurt dip).	1
+169	hummus	Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!	1
+170	seating	The only drawback is the crowded seating and the slow service.	0
+171	service	The only drawback is the crowded seating and the slow service.	0
+172	place	However, this place is a gem, and I won't stop going back.	1
+173	beer	great beer	1
+174	restaurant	– My first time to dine at this restaurant was with my son and it was absolutely horrible!	0
+175	beer	I swore never to return for a warm beer and mediocre meal.	0
+176	meal	I swore never to return for a warm beer and mediocre meal.	0
+177	band	The band was very good and the service was attentive.	1
+178	service	The band was very good and the service was attentive.	1
+179	shoe string onions	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.	1
+180	goat cheese pizza	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.	1
+181	grilled asparagus	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.	1
+182	fried brie with fruit	We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.	1
+183	beer	We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).	1
+184	waiter	We did have the same waiter the second time, so maybe the service is spotty and our luck is good.	1
+185	band	Sunday afternoons there is a band playing and it is lots of fun.	1
+186	Winelist	Seattle's BEST Winelist	1
+187	wine list	– Ray's (suprisingly) has the city's BEST & most diverse wine list.	1
+188	sommelier	The sommelier is fantastic, down-to-earth, & extremely knowlegable.	1
+189	wine	I would go back for the wine experience alone.	1
+190	PLACE	NOT THE PLACE IT ONCE WAS	0
+191	place	– It is sad to see a place that was once THE place to meet and eat for Bfast or Lunch, now be the place that is a big DONT BOTHER.	0
+192	food	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).	0
+193	potions	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).	0
+194	service	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).	0
+195	food	The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).	0
+196	owners	What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.	0
+197	establishment	This establishment really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS DINERS, DRIVE-INS, AND DIVES hosted by Guy Fieri, in which Schooner or Later was subject of.	0
+198	Scooner or Later	Perhaps now, Scooner or Later falls into the Dive category.	0
+199	Place	Open & Cool Place with the Best Pizza and Coffee	1
+200	Pizza	Open & Cool Place with the Best Pizza and Coffee	1
+201	Coffee	Open & Cool Place with the Best Pizza and Coffee	1
+202	pizza menu	– Mioposto has a very creative & delicious pizza menu.	1
+203	coffe	The coffe is very good, too.	1
+204	ambience	Great open and friendly ambience.	1
+205	place	This place is charming and relaxing.	1
+206	servers behind the counter	The servers behind the counter are always friendly and helpful.	1
+207	food	It's a great place to enjoy food and meet friends.	1
+208	place	It's a great place to enjoy food and meet friends.	1
+209	Ray's	– After 12 years in Seattle Ray's rates as the place we always go back to.	1
+210	food	Great food, spectacular location, and friendly service keep us coming back year after year.	1
+211	location	Great food, spectacular location, and friendly service keep us coming back year after year.	1
+212	service	Great food, spectacular location, and friendly service keep us coming back year after year.	1
+213	food	Enjoyed the food	1
+214	Food	Food was good and cheap.	1
+215	kafta plate	I had the kafta plate and I enjoyed it.	1
+216	Atmosphere	Atmosphere was nice.	1
+217	Service	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.	0
+218	waitress	Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.	0
+219	place	Still I would recommend this place.	1
+220	FOOD	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW	1
+221	PEOPLE	WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW	1
+222	food	Great food with an awesome atmosphere!	1
+223	atmosphere	Great food with an awesome atmosphere!	1
+224	Eggs	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	1
+225	pancakes	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	1
+226	potatoes	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	1
+227	fresh fruit	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	1
+228	yogurt	– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	1
+229	place	The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.	1
+230	meal	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!	1
+231	fish on the omikase platter	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!	1
+232	waitstaff	plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!	1
+233	waiter	and the waiter suggested a perfect sake!!	1
+234	sake	and the waiter suggested a perfect sake!!	1
+235	sushi	Unbeatable sushi!	1
+236	nigiri	Melt in your mouth nigiri and sashmi, and very tasty rolls too.	1
+237	sashmi	Melt in your mouth nigiri and sashmi, and very tasty rolls too.	1
+238	rolls	Melt in your mouth nigiri and sashmi, and very tasty rolls too.	1
+239	oyster roll	Be sure to try the oyster roll.	1
+240	sushi	– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.	1
+241	restaurant	I can't saybenough good things about this restaurant, and I can't wait for my next several visits.	1
+242	Chuwam Mushi	The best Chuwam Mushi I have ever had.	1
+243	Sushi	Good Sushi, High Price 	1
+244	Sushi place	One of the best Sushi place in town.	1
+245	house special roll	The house special roll is really good.	1
+246	spot	A cozy spot for 2	1
+247	Murphy's	– I can't believe Murphy's has been around for over 25 years, amazing.	1
+248	Brunch	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.	1
+249	food	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.	1
+250	egg white omelet	Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.	1
+251	spot	It's the perfect spot for a romantic date for 2 or a secret rendezvous!	1
+252	desserts	Save room for  scrumptious desserts.	1
+253	wine list	The restaurant offers an extensive wine list and an ambiance you won't forget!	1
+254	ambiance	The restaurant offers an extensive wine list and an ambiance you won't forget!	1
+255	Mexican place	– Best Mexican place for lunch in the financial district.	1
+256	enchiladas	Love the enchiladas and chicken soup - and be sure to check out their specials.	1
+257	chicken soup	Love the enchiladas and chicken soup - and be sure to check out their specials.	1
+258	specials	Love the enchiladas and chicken soup - and be sure to check out their specials.	1
+259	cooks	The cooks have been at the restaurant for years and cook family recipes.	1
+260	service	Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.	1
+261	sushi	The sushi was excellent and the wait staff was quick.	1
+262	wait staff	The sushi was excellent and the wait staff was quick.	1
+263	atmosphere	The atmosphere was just okay.	2
+264	Space	Space was limited, but the food made up for it.	0
+265	food	Space was limited, but the food made up for it.	1
+266	staff	Well I guess it's hard to be seated when one is invisible to the staff.	0
+267	employees	We stood there for 10 minutes while employees walked back and forth ignoring us.	0
+268	staff	Finally, my wife stood face to face in front of one of the staff and she asked, Are you waiting for a table?	0
+269	Caesar salad	The Caesar salad I ordered had so much lemon I couldn't eat it.	0
+270	food	Great food, better Margaritas!	1
+271	Margaritas	Great food, better Margaritas!	1
+272	service	it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!	1
+273	art on the walls	Check out the art on the walls, very colorful!	1
+274	place	i love this place!	1
+275	meal	– i have been eating at this place for over 8 years now and i have never had one bad meal.	1
+276	indain food	i highly recommend this place to all that want to try indain food for the first time.	1
+277	lunch menu	The lunch menu is an awesome deal!	1
+278	food	plenty of food,trust me .	1
+279	ingrediants	Fresh ingrediants and super tasty.	1
+280	food	Best food, phenominal service 	1
+281	service	Best food, phenominal service 	1
+282	fish	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.	1
+283	service	For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.	1
+284	selection	Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.	1
+285	sushi	Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.	1
+286	waiters	The nicest waiters in town.	1
+287	place	– This place is unbelievably over-rated.	0
+288	brunch food	If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.	2
+289	regular menu	The regular menu here is slightly above average that is not worth the snotty attitude that you receive.	2
+290	sushi	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+291	fish	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+292	sake	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+293	SOHO location	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+294	Salmon	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+295	Tuna	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+296	Fluke	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+297	Yellow Tail	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+298	Cod	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+299	Mackeral	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+300	Jellyfish	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+301	Sea Urchin	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+302	Shrimp	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+303	Lobster	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+304	Sea Bream	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+305	Trout	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+306	Milk Fish	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+307	Blue Fin Tuna	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+308	Eel	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+309	Crab	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+310	Sardine	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+311	Monk Fish	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+312	Roe	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+313	Scallop	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+314	Oysters	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+315	Toro	Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.	1
+316	place	There is only one place on the east coast that has it all, plus a lot more.	1
+317	BLUE RIBBON SUSHI	Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: BLUE RIBBON SUSHI.	1
+318	tuna	Hands down, the best tuna I have ever had.	1
+319	Blue Ribbon	Blue Ribbon lives up to it's fantastic reputation.	1
+320	sushi	Great value sushi with high quality & nice setting.	1
+321	setting	Great value sushi with high quality & nice setting.	1
+322	rolls	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.	1
+323	smoked yellowtail	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.	1
+324	Chef's Choice for sushi	Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.	1
+325	customer service	Poor customer service/poor pizza.	0
+326	pizza	Poor customer service/poor pizza.	0
+327	service	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.	0
+328	food	– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.	0
+329	pizza	I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.	0
+330	location	The only positive thing about Mioposto is the nice location.	1
+331	Mioposto	The only positive thing about Mioposto is the nice location.	0
+332	place	I was frankly shocked when I read the bad reviews - this place is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.	1
+333	food	The food is fantastic, and the waiting staff has been perfect every single time we've been there.	1
+334	waiting staff	The food is fantastic, and the waiting staff has been perfect every single time we've been there.	1
+335	wait	The only problem would be the wait, but we usually just have a drink in the front while waiting.	2
+336	Seafood	Seafood Plus	1
+337	appetizer of oysters, lobster, crab (small size)	The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.	1
+338	Seabass on lobster risotto	Seabass on lobster risotto was the best.	1
+339	Caesar salad	Caesar salad was superb.	1
+340	bottle of wine	Great bottle of wine.	1
+341	dessert	Leave room for dessert.	1
+342	food	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.	2
+343	service	The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.	0
+344	waitress	We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.	0
+345	owner	As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.	0
+346	PLACE	AVOID THE PLACE	0
+347	atmosphere	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!	1
+348	service	When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!	0
+349	restaurant	I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.	0
+350	bar keep	After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.	0
+351	service	We left without ever getting service.	0
+352	Crab Cakes	Best Crab Cakes in Town	1
+353	cakes	– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.	1
+354	place	If you can, come to this place by boat and make it a whole evening.	1
+355	seasonal fish	Great seasonal fish and seafood, with a classy waterfront setting.	1
+356	seafood	Great seasonal fish and seafood, with a classy waterfront setting.	1
+357	waterfront setting	Great seasonal fish and seafood, with a classy waterfront setting.	1
+358	Pizza	Great Pizza, Poor Service	1
+359	Service	Great Pizza, Poor Service	0
+360	pizza	– Love their pizza, especially the mushroom pizza.	1
+361	mushroom pizza	– Love their pizza, especially the mushroom pizza.	1
+362	caeser salad	Also love their caeser salad.	1
+363	servers	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.	0
+364	young woman	Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.	0
+365	waitstaff	Management should really take notice and train their waitstaff and teach them some proper manners.	0
+366	Management	Management should really take notice and train their waitstaff and teach them some proper manners.	0
+367	pizza	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.	1
+368	service	Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.	0
+369	place	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	1
+370	service	It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	0
+371	Breakfast	Great Breakfast	1
+372	breakfast	– This place is famous for their breakfast.	1
+373	food	The food is great and they make a mean bloody mary.	1
+374	bloody mary	The food is great and they make a mean bloody mary.	1
+375	breakfast	I love breakfast here.	1
+376	crab eggs benedict	Their crab eggs benedict is addicting.	1
+377	menu items	All their menu items are a hit, and they serve mimosas.	1
+378	chinese food	best chinese food i have tasted in a long time	1
+379	ambiance	the ambiance of the restaurant was nice and good for fine dinning.	1
+380	staff	the staff was very nice and courteous and obviously chinese.	1
+381	prawns	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.	1
+382	batter	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.	1
+383	walnuts	so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.	1
+384	honey walnyt prawns	best honey walnyt prawns that we have every tasted.	1
+385	brocollis	the brocollis were so fresh and tasty.	1
+386	scallops	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.	1
+387	prawns	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.	1
+388	brocolli	i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.	1
+389	mango ginger creme brulee	for desert we had the mango ginger creme brulee... oh la la yummy!!!	1
+390	restaurant	we are for sure coming back to this restaurant.	1
+391	portions	Chintzy portions	0
+392	sushi	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).	1
+393	restaurant	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).	0
+394	sushi	– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).	0
+395	restaurant	I'm astonished that this restaurant is categorized as $$$ rather than $$$$.	0
+396	service	Terrible service, food ok, pricey	0
+397	food	Terrible service, food ok, pricey	2
+398	service	In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.	0
+399	Food	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	2
+400	restaurant	Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	0
+401	location	If I needed to name some they would include the location to the beach or Golden Gate park.	1
+402	feel	Another plus is the open feel of the restaurant with glass walls on all sides.	1
+403	glass walls	Another plus is the open feel of the restaurant with glass walls on all sides.	1
+404	Spanish Mackeral special appetizer	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).	1
+405	box sushi	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).	1
+406	eel with avodcao	Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).	1
+407	omikase	As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.	1
+408	specialty rolls	Their specialty rolls are impressive, though I can't remember what we had.	1
+409	selection of sakes	Great selection of sakes.	1
+410	Green tea creme brulee	Green tea creme brulee gets better each time I have it.	1
+411	sushi	It isn't the cheapest sushi but has been worth it every time.	2
+412	customer service	Very poor customer service.	0
+413	location along the marina in Long Beach	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.	1
+414	food	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.	2
+415	customer service	– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.	0
+416	food	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	1
+417	restaurant staff	While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	0
+418	waitress	After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.	0
+419	manager	A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been blown off would be an understatement.	0
+420	sushi	you are with a hot date and he/she has an urge for sushi...then this might be the place.	1
+421	fish	the fish was fresh, though it was cut very thin.	1
+422	service	great service.	1
+423	sake selection	good sake selection.	1
+424	Dungeness crabs	Dungeness crabs here!	1
+425	seafood dinners	– Ray's is THE place to go for high quality seafood dinners.	1
+426	Rays	We were only in Seattle for one night and I'm so glad we picked Rays for dinner!	1
+427	Dungeness crabs	I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!	1
+428	black cod in sake kasu	We shared the family platter and I especially enjoyed the black cod in sake kasu.	1
+429	dessert of a port and chocolate tasting	I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!	1
+430	service	And the service was simply spendid - quite a delight.	1
+431	Breakfast	Great Breakfast	1
+432	drinks	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.	1
+433	corn beef hash	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.	1
+434	coffee	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.	1
+435	B Fast burritos	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.	1
+436	menu	– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.	1
+437	service	The service is fantastic at this fun place.	1
+438	place	The service is fantastic at this fun place.	1
+439	Standby	Best Neighborhood Standby.	1
+440	spot	In Grammercy/Union Square/East Village this is my neighbors and my favorite spot.	1
+441	music	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.	1
+442	bar tenders	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.	1
+443	atmosphere	The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.	1
+444	cheese fries	Oh, and the cheese fries are awesome!	1
+445	Food	Good Food, Great Service, Average Prices (For the Strip)	1
+446	Service	Good Food, Great Service, Average Prices (For the Strip)	1
+447	price fixed pre-show dinner	– I decided to eat at Stack because of their price fixed pre-show dinner.	2
+448	wood decor	When I walked in, I was taken aback by their incredible wood decor.	1
+449	music	The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.	1
+450	subwoofer to the sound system	The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.	0
+451	shellfish and shrimp appetizer	I got the shellfish and shrimp appetizer and it was alright.	2
+452	seafood	It wasn't the freshest seafood ever, but the taste and presentation was OK.	2
+453	asparagus	I picked the asparagus, which turned out to be incredible and perfectly prepared.	1
+454	9 oz steak	The 9 oz steak came next and it tasted great, at least initially.	1
+455	steak	The steak was done to my exact liking (medium rare) and was nice and juicy.	1
+456	peppercorn sauce	It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.	2
+457	red wine reduction	It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.	2
+458	steak	Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.	0
+459	desert	The desert was the perfect ending to an almost perfect dinner.	1
+460	dinner	The desert was the perfect ending to an almost perfect dinner.	1
+461	servers	But the servers were extremely attentive and very friendly.	1
+462	restaurant	Overall, I would go back and eat at the restaurant again.	1
+463	sake	good sake, good food – i honestly don't know much about japanese food at all.	1
+464	food	good sake, good food – i honestly don't know much about japanese food at all.	1
+465	sake	Server made several sake suggestions which were very good.	1
+466	Server	Server made several sake suggestions which were very good.	1
+467	lobster 3 ways	had many dishes but the BEST was the lobster 3 ways.	1
+468	waiter	The waiter was a bit unfriendly and the feel of the restaurant was crowded.	0
+469	feel	The waiter was a bit unfriendly and the feel of the restaurant was crowded.	0
+470	bathroom stall	Also, there was only one bathroom stall- probably need more for such big crowds.	0
+471	menu	Most importantly, we were so excited about the food after seeing the very creative menu.	1
+472	food	At best, the food was good and definately overpriced.	2
+473	pizza joint	My favortie pizza joint in Seattle	1
+474	restaurant	– This is my must bring out of town guests to restaurant and they always enjoy and rave about it.	1
+475	pizza	The pizza is delicious and the salads are fantastic.	1
+476	salads	The pizza is delicious and the salads are fantastic.	1
+477	wait staff	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.	1
+478	cooks	I've always found the wait staff and, if you sit at the bar, the cooks very friendly.	1
+479	decor	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.	1
+480	feeling	I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.	1
+481	Mioposto Café	– My husband and I love eating at Mioposto Café.	1
+482	pizza’s	We’re can’t say enough about their delicious gourmet pizza’s!	1
+483	menu	You won’t be disappointed by their menu.	1
+484	pizza’s	The pizza’s are thin crust and the menu offers very creative combinations and toppings.	1
+485	Pizza Ensalata	Try the Pizza Ensalata!	1
+486	pizza’s	The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.	2
+487	crust	The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.	2
+488	food	The food is sinful.	1
+489	staff	The staff was really friendly.	1
+490	atmosphere	The atmosphere was great.	1
+491	pancakes	The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.	1
+492	menu	Nothing on the menu is less than amazing.	1
+493	breakfast	Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.	1
+494	eats	Good eats.	1
+495	place	I don't know why anyone would want to write a great review about this place.	0
+496	fish	Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.	0
+497	chef special dinner	I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.	0
+498	plate	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.	0
+499	exotic fish	Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.	0
+500	atmosphere	– The atmosphere is great for any special occasion you might want to celebrate.	1
+501	honwy walnut prawns	The best dish are the honwy walnut prawns- just outstanding.	1
+502	service	The service is really attentive and charming.	1
+503	coffee	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.	1
+504	food	The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.	1
+505	restaurant	– I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.	1
+506	food	The food is fantastic, authentic, delicious and very, very affordable.	1
+507	decor	The decor was beautiful and unique.	1
+508	music	There was a really nice vibe about the place...good music, atmosphere and happy looking people.	1
+509	atmosphere	There was a really nice vibe about the place...good music, atmosphere and happy looking people.	1
+510	vibe	There was a really nice vibe about the place...good music, atmosphere and happy looking people.	1
+511	people	There was a really nice vibe about the place...good music, atmosphere and happy looking people.	1
+512	server	Our server was very professional and friendly.	1
+513	Open Sesame	To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!	1
+514	place	It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.	2
+515	menu	Everything, and I mean everything on the menu is delectable.	1
+516	waiters	The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.	1
+517	sushi	The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!	1
+518	pepperoni	big thick pepperoni	1
+519	pepperoni's	– The pepperoni's cut real thick--Yum.	1
+520	pizza	The pizza itself is not exactly the best I've had EVER, but still pretty good.	1
+521	Balcony	Sit in the Balcony	1
+522	Food	Food was good and appetizing.	1
+523	Portions	Portions was just enough for me, but may not be for a big eater.	2
+524	menu selection	Fair menu selection.	2
+525	appetizer	The appetizer was interesting, but the Creme Brulee was very savory and delicious.	1
+526	Creme Brulee	The appetizer was interesting, but the Creme Brulee was very savory and delicious.	1
+527	Indoor ambience	Indoor ambience was modern.	1
+528	balcony	If it's nice outside, request for a table in the balcony.	1
+529	place	It's a great place to people watch.	1
+530	service	Although the service could be improved considering the money you put in.	0
+531	server	Our drinks kept coming but our server came by a couple times.	0
+532	food	Late night dinning with exeptional food.	1
+533	service	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.	1
+534	waiters	The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.	1
+535	food	The food was very good, filet mignon was probably the best I've ever try.	1
+536	filet mignon	The food was very good, filet mignon was probably the best I've ever try.	1
+537	portions	The portions are big though, so do not order too much.	2
+538	music	Groovy music made the dinner casual.	1
+539	restroom	I have a but here - there was a bathroom attendant in the restroom which was odd.	0
+540	bathroom	The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.	0
+541	place	This place rocks!!	1
+542	service	– Mercedes restaurant is so tasty, the service is undeniably awesome!	1
+543	chips  and salsa	The chips  and salsa are so yummy, and the prices are fabulous.	1
+544	atmosphere	The atmosphere is aspiring, and  the decor is festive and amazing..	1
+545	decor	The atmosphere is aspiring, and  the decor is festive and amazing..	1
+546	Raouls chicken vegetable soup	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!	1
+547	catering	The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!	1
+548	Drinks	Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.	1
+549	Service	- Mediocre Service/Quality	2
+550	Snooze	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.	1
+551	menu	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.	0
+552	Snooze	The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.	0
+553	orange juice	To start off, approximately 8-10 oz of orange juice will cost you $3.	0
+554	juice	They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.	0
+555	menu	I should have just asked for the check when I saw that; but their menu was so unique that I continued.	1
+556	pancakes	The pancakes were certainly inventive but $8.50 for 3 - 6 pancakes (one of them was more like 5) in the pancake flight (sample of 3 different pancakes) is well over-priced.	1
+557	eggs	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.	0
+558	meal	On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.	0
+559	dish	I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.	0
+560	manager	To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.	0
+561	pancakes	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).	0
+562	breakfast burrito	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).	0
+563	orange juice	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).	0
+564	iced tea	In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).	0
+565	view	Much more than just a great view!	1
+566	Ray's Boathouse	– I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations.	1
+567	Sound views	Ray's is something of a Seattle institution, but given its gorgeous Sound views, I had suspected that the accolades were more due to the scenery than to the food and service.	1
+568	views	Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!	1
+569	Ray's	Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!	1
+570	Brooke	To start things off, our lovely server Brooke was quickly on hand to take my drink order.	1
+571	white gulf prawns	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.	1
+572	manila clams	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.	1
+573	soy dressing	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.	1
+574	butter sauce	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.	1
+575	Shilshole Sampler	My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.	1
+576	seared Alaskan sea scallops	For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.	1
+577	scallops	The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).	1
+578	grilled Alaskan King Salmon	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.	1
+579	creamed Washington russet potatoes	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.	1
+580	green beans	My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.	1
+581	plate	I had a taste of all three items on her plate, and they were superb.	1
+582	server	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?	1
+583	Ray's	Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?	2
+584	Ray's Boathouse	All considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.	1
+585	server	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.	1
+586	food	While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.	1
+587	view	Oh yeah...the view was good, too.	1

@@ -1,0 +1,7 @@
+#!d:\study\deepleaning\restaurant_pre\venv\scripts\python.exe
+
+from domainr import Domain
+
+
+if __name__ == '__main__':
+    Domain().main()
